@@ -46,3 +46,8 @@ Backend runs on http://localhost:5000
     npm install
     npm start
 Frontend runs on http://localhost:3000
+
+Demo Video Link:
+
+https://www.loom.com/share/583c07637e764bfca802b2c2d86e9be5
+
